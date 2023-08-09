@@ -1,4 +1,4 @@
-# Prompt-Reforming-Generator
+# Prompt-Reforming-Generator (PRG)
 Using Meta's Llama 2 LLM, we fine tune the model to be optimized for turning "bad" prompts that yield an inefficient response into "good" ones which are optimal prompts that generate fruitful responses.
 
 ## Authors and Credits
