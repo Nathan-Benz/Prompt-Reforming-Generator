@@ -1,6 +1,8 @@
 # Prompt-Reforming-Generator
 Using Meta's Llama 2 LLM, we fine tune the model to be optimized for turning "bad" prompts that yield an inefficient response into "good" ones which are optimal prompts that generate fruitful responses.
 
+## Authors and Credits
+
 ## Vision for the Model
 - 
 ## Dataset
@@ -12,3 +14,5 @@ We used a very strong package in, AutoTrain, to fine-tune the open-source Llama 
 
 ## Possible Future Capabilities
 <to be filled>
+
+## Resources Used
