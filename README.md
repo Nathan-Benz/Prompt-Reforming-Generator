@@ -14,7 +14,7 @@ Additional credits:
 ## Vision for the Model
 - 
 ## Dataset
-- Dataset was constructed according to [OpenAI's Best Practices for Prompt Engineering]([url](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api))
+- Dataset was constructed according to [OpenAI's Best Practices for Prompt Engineering](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)
 ## Packages and Libraries
 ### Hugging Face
 We used a very strong package in, AutoTrain, to fine-tune the open-source Llama V2 assistant for our purpose.
