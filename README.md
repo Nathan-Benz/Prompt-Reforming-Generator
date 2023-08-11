@@ -1,5 +1,5 @@
-# Prompt-Reforming-Generator (PRG)
-Using Meta's Llama 2 LLM, we fine tune the model to be optimized for turning "bad" prompts that yield an inefficient response into "good" ones which are optimal prompts that generate fruitful responses.
+# Promptimizer
+Using Meta's Llama 2 LLM, we fine tune the model to be optimized for turning "bad" prompts that yield an inefficient responses into "good" ones which are optimal prompts specifically for AI that generate fruitful responses.
 
 ## Authors and Credits
 - Julian Sanchez
@@ -9,6 +9,8 @@ Using Meta's Llama 2 LLM, we fine tune the model to be optimized for turning "ba
 
 Additional credits:
 - Abraham Bautista (Mentor)
+- (PromptEnginerring)[https://youtu.be/LslC2nKEEGU]
+- (1littlecoder)[https://youtu.be/eeM6V5aPjhk]
 ## Vision for the Model
 - 
 ## Dataset
