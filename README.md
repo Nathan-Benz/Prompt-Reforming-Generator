@@ -2,6 +2,7 @@
 Using Meta's Llama 2 LLM, we fine tune the model to be optimized for turning "bad" prompts that yield an inefficient responses into "good" ones which are optimal prompts specifically for AI that generate fruitful responses.
 
 ## Authors and Credits
+(Team JENNA)
 - Julian Sanchez
 - Emily Zou
 - Nathan Benitez
@@ -14,7 +15,9 @@ Additional credits:
 ## Vision for the Model
 - 
 ## Dataset
-- Dataset was constructed according to [OpenAI's Best Practices for Prompt Engineering](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)
+- Dataset was constructed according to guidelines obtained from [OpenAI's Best Practices for Prompt Engineering](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api).
+- A few prompts were generated according to the guidlines manually by authors. Following this, ChatGPT was used to generate similar contrasting prompts in high amount and speed.
+- Generated prompts were compiled into a single .csv file that served as the dataset pushed to HuggingFace to be used to train the model. Dataset can be found [here](https://huggingface.co/datasets/NateBenz/formatted_prompts) 
 ## Packages and Libraries
 ### Hugging Face
 We used a very strong package in, AutoTrain, to fine-tune the open-source Llama V2 assistant for our purpose.
