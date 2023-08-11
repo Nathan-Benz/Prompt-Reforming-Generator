@@ -79,3 +79,7 @@ We recommend using AutoTrain Advanced since it is faster, more flexible and will
 - [PromptEngineering](https://youtu.be/LslC2nKEEGU)
 - [1littlecoder](https://youtu.be/eeM6V5aPjhk)
 - [Accelerate Documentation](https://huggingface.co/docs/accelerate/index)
+
+## Collaborations
+
+MIT, MIT FutureMakers, SureStart
