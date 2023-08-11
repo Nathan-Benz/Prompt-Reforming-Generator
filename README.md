@@ -13,7 +13,7 @@ Additional credits:
 - [PromptEnginerring](https://youtu.be/LslC2nKEEGU)
 - [1littlecoder](https://youtu.be/eeM6V5aPjhk)
 ## Vision for the Model
-- We decided to tackle the issue of prompt engineering, specifically in the public domain. We recognize that there are exisiting models that are primarily used for prompt engineering by companies, but we wanted to make this skill available as a resource for the ordinary individual. Using this model, users can improve their day-to-day prompts to yield better prompts -- getting better returns on their interaction with AI. Not only this, but users also have the opportunity to observe and improve their own prompt engineering skills by observing the outputs of our model.
+We decided to tackle the issue of prompt engineering, specifically in the public domain. We recognize that there are exisiting models that are primarily used for prompt engineering by companies, but we wanted to make this skill available as a resource for the ordinary individual. Using this model, users can improve their day-to-day prompts to yield better prompts -- getting better returns on their interaction with AI. Not only this, but users also have the opportunity to observe and improve their own prompt engineering skills by observing the outputs of our model.
 ## Dataset
 - Dataset was constructed according to guidelines obtained from [OpenAI's Best Practices for Prompt Engineering](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api).
 - A few prompts were generated according to the guidlines manually by authors. Following this, ChatGPT was used to generate similar contrasting prompts in high amount and speed.
@@ -61,6 +61,6 @@ We recommend using AutoTrain Advanced since it is faster, more flexible and will
 - Making this model usable as a Google extension, so that users have easy access to it and have it as company.
 - Using responses from the user to apply concepts of reinforcement learning to further better the model.
 
-<to be filled>
+
 
 ## Resources Used
