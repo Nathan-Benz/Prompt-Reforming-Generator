@@ -8,7 +8,7 @@ Using Meta's Llama 2 LLM, we fine tune the model to be optimized for turning "ba
 - Nati Seifu
 
 Additional credits:
-- Abraham Bautista
+- Abraham Bautista (Mentor)
 ## Vision for the Model
 - 
 ## Dataset
