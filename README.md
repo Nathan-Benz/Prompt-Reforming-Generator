@@ -52,7 +52,7 @@ We recommend using AutoTrain Advanced since it is faster, more flexible and will
 
 ## Limitations and Possible Future Capabilities
 ### Limitations
-- Currently the model does not incorporate a dataset nearly enough to generate consistent, viable responses.
+- Currently the model was not trained with a large enough dataset to generate consistent, viable fine-tuned responses.
 - 
 
 ### Future Capabilities
