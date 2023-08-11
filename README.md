@@ -24,8 +24,8 @@ We decided to tackle the issue of prompt engineering, specifically in the public
 - Generated prompts were compiled into a single .csv file that served as the dataset pushed to HuggingFace to be used to train the model.
 - Latest dataset can be found [here](https://huggingface.co/datasets/NateBenz/formatted_prompts)
 ## Files
-The repository consists of three Jupyter notebooks:
-- 
+The repository consists of three Jupyter notebooks: 
+
 -
 - 
 
