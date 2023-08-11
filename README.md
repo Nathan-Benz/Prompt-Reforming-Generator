@@ -64,3 +64,6 @@ We recommend using AutoTrain Advanced since it is faster, more flexible and will
 
 
 ## Resources Used
+- [PromptEnginerring](https://youtu.be/LslC2nKEEGU)
+- [1littlecoder](https://youtu.be/eeM6V5aPjhk)
+- [Accelerate Documentation] (https://huggingface.co/docs/accelerate/index)
