@@ -40,8 +40,8 @@ No code users with small number of data samples can use AutoTrain using the UI l
 
 Developers can access and build on top of AutoTrain using python api or run AutoTrain Advanced UI locally. The python api is available in the autotrain-advanced package. You can install it using pip:
 
-Copied
-pip install autotrain-advanced
+'pip install autotrain-advanced'
+
 What is AutoTrain Advanced?
 AutoTrain Advanced processes your data either in a Hugging Face Space or locally (if installed locally using pip). This saves one time since the data processing is not done by the AutoTrain backend, resulting in your job not being queued. AutoTrain Advanced also allows you to use your own hardware (better CPU and RAM) to process the data, thus, making the data processing faster.
 
@@ -64,6 +64,6 @@ We recommend using AutoTrain Advanced since it is faster, more flexible and will
 
 
 ## Resources Used
-- [PromptEnginerring](https://youtu.be/LslC2nKEEGU)
+- [PromptEngineering](https://youtu.be/LslC2nKEEGU)
 - [1littlecoder](https://youtu.be/eeM6V5aPjhk)
 - [Accelerate Documentation](https://huggingface.co/docs/accelerate/index)
