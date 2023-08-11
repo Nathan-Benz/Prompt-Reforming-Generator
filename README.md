@@ -3,6 +3,8 @@ Promptimizer is a Large Language Model (LLM) designed for users who want to gene
 
 Using Meta's Llama 2 LLM as the base model, we perform fine-tuning for its optimization in order to convert "bad" prompts that usually produce inefficient/inaccurate responses into "good" ones, which can be interpreted as optimal indications given the specifications of the Generative AI in question.
 
+Promptimizer is an LLM that seeks to democratize the use of artificial intelligence, allowing users whose first language is not English and people without technical knowledge of how LLMs work to use the full potential of these tools through prompt recommendations.
+
 ## Authors and Credits
 (Team JENNA)
 - Julian Sanchez
