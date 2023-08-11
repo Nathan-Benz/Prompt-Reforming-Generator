@@ -26,8 +26,9 @@ We decided to tackle the issue of prompt engineering, specifically in the public
 ## Files
 The repository consists of three Jupyter notebooks: 
 
--
-- 
+- Llama_2_Fine_Tuning_using_QLora - One of the fine-tuning methods that we used to create our model using a helpful package in QLora.
+- llama2_fine_tune - An alternative fine-tuning method that we used to generate the model in a different way.
+- llama2_model_testing - This is where we test our model to see how it performs.
 
 ## Packages and Libraries
 ### Hugging Face
