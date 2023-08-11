@@ -1,5 +1,5 @@
 # Promptimizer
-Promptimizer is a Large Language Model (LLM) designed for the user who wants to generate better prompts to need fewer iterations using other LLMs to get more efficient/accurate prompts.
+Promptimizer is a Large Language Model (LLM) designed for users who want to generate better prompts in order to use fewer prompt iterations when using other LLMs to get more efficient/accurate prompts.
 
 Using Meta's Llama 2 LLM as the base model, we perform fine-tuning for its optimization in order to convert "bad" prompts that usually produce inefficient/inaccurate responses into "good" ones, which can be interpreted as optimal indications given the specifications of the Generative AI in question.
 
