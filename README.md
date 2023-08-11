@@ -51,7 +51,16 @@ Everything else is the same as AutoTrain. You can use AutoTrain Advanced to trai
 
 We recommend using AutoTrain Advanced since it is faster, more flexible and will have more supported tasks and features in the future.
 
-## Possible Future Capabilities
+## Limitations and Possible Future Capabilities
+### Limitations
+- Currently the model does not incorporate a dataset nearly enough to generate consistent, viable responses.
+- 
+
+### Future Capabilities
+- Based on the limiations of the current version, an increased dataset to train the model would yield a better model.
+- Making this model usable as a Google extension, so that users have easy access to it and have it as company.
+- Using responses from the user to apply concepts of reinforcement learning to further better the model.
+
 <to be filled>
 
 ## Resources Used
