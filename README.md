@@ -22,7 +22,13 @@ We decided to tackle the issue of prompt engineering, specifically in the public
 - Dataset was constructed according to guidelines obtained from [OpenAI's Best Practices for Prompt Engineering](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api).
 - A few prompts were generated according to the guidlines manually by authors. Following this, ChatGPT was used to generate similar contrasting prompts in high amount and speed.
 - Generated prompts were compiled into a single .csv file that served as the dataset pushed to HuggingFace to be used to train the model.
-- Latest dataset can be found [here](https://huggingface.co/datasets/NateBenz/formatted_prompts) 
+- Latest dataset can be found [here](https://huggingface.co/datasets/NateBenz/formatted_prompts)
+## Files
+The repository consists of three Jupyter notebooks:
+- 
+-
+- 
+
 ## Packages and Libraries
 ### Hugging Face
 We used a very strong package in, AutoTrain, to fine-tune the open-source Llama V2 assistant for our purpose.
