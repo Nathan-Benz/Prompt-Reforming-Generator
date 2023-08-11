@@ -1,3 +1,6 @@
+![image](https://github.com/Nathan-Benz/Prompt-Reforming-Generator/assets/117955125/8472394a-4c64-4037-a0db-1ffa0a6d89c7)
+
+
 # Promptimizer
 Promptimizer is a Large Language Model (LLM) designed for users who want to generate better prompts in order to use fewer prompt iterations when using other LLMs to get more efficient/accurate prompts.
 
