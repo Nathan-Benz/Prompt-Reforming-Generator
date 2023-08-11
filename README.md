@@ -1,6 +1,5 @@
 # Promptimizer
-Using Meta's Llama 2 LLM, we fine tune the model to be optimized for turning "bad" prompts that yield an inefficient responses into "good" ones which are optimal prompts specifically for AI that generate fruitful responses.
-
+Using Meta's Llama 2 LLM as the base model, we perform fine-tuning for its optimization in order to convert "bad" prompts that usually produce inefficient/inaccurate responses into "good" ones, which can be interpreted as optimal indications given the specifications of the Generative AI in question.
 ## Authors and Credits
 (Team JENNA)
 - Julian Sanchez
