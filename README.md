@@ -14,7 +14,7 @@ Promptimizer is an LLM that seeks to democratize the use of artificial intellige
 
 Additional credits:
 - Abraham Bautista (Mentor)
-- [PromptEnginerring](https://youtu.be/LslC2nKEEGU)
+- [PromptEngineering](https://youtu.be/LslC2nKEEGU)
 - [1littlecoder](https://youtu.be/eeM6V5aPjhk)
 ## Vision for the Model
 We decided to tackle the issue of effective prompt engineering, specifically in the public domain. We recognize that there are exisiting models that are primarily used for prompt engineering by companies, but we wanted to make this skill available as a resource for the general public. Using this model, users can improve their day-to-day prompts to yield better prompts -- getting better returns on their interaction with AI. Not only this, but users also have the opportunity to observe and improve their own prompt engineering skills by observing the outputs of our model.
