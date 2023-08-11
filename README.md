@@ -21,7 +21,7 @@ We used a very strong package in, AutoTrain, to fine-tune the open-source Llama 
  - The one-liner code included in the training section is achieved through this package.
  - Usually, a large-scale fine-tuning processes would require a strong GPU, but the small dataset we have allows the fine-tuning at a smaller scale.
 
-AutoTrain Documentation -- from HuggingFace
+#### AutoTrain Documentation -- from HuggingFace
 🤗 AutoTrain is a no-code tool for training state-of-the-art models for Natural Language Processing (NLP) tasks, for Computer Vision (CV) tasks, and for Speech tasks and even for Tabular tasks. It is built on top of the awesome tools developed by the Hugging Face team, and it is designed to be easy to use.
 
 Who should use AutoTrain?
