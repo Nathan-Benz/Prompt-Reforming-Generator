@@ -56,7 +56,8 @@ We recommend using AutoTrain Advanced since it is faster, more flexible and will
 ## Limitations and Possible Future Capabilities
 ### Limitations
 - Currently the model was not trained with a large enough dataset to generate consistent, viable fine-tuned responses.
-- 
+- Computational power was a major limiting factor in the models development as it used not only the smallest version of LLaMA 2 but a shared one on top of that to prevent memory issues when traning, significantly reducing the accuracy
+- Deployment is another downside as even though the technology is new, it is because of that fact that knowledge of best implementation methods and other stragegies or tools are far and few between.
 
 ### Future Capabilities
 - Based on the limiations of the current version, an increased dataset to train the model would yield a better model.
