@@ -76,11 +76,10 @@ We recommend using AutoTrain Advanced since it is faster, more flexible and will
 - Deployment is another downside as even though the technology is new, it is because of that fact that knowledge of best implementation methods and other stragegies or tools are far and few between.
 
 ### Future Capabilities
-- Based on the limiations of the current version, an increased dataset to train the model would yield a better model.
-- Making this model usable as a Google extension, so that users have easy access to it and have it as company.
-- Using responses from the user to apply concepts of reinforcement learning to further better the model.
-
-
+- Based on the limiations of the current version, an increased dataset to train the model would yield a better model and more varied responses.
+- Making this model usable as a Google extension, so that users have easy access to it without having to navigate away from the AI tool they're currently using.
+- Using scored responses from the user to apply concepts of reinforcement learning to further better the model through a feedback loop
+- Compatibility with different languages
 
 ## Resources Used
 - [PromptEngineering](https://youtu.be/LslC2nKEEGU)
